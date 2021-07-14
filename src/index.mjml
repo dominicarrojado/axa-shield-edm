@@ -55,18 +55,6 @@
         cursor: pointer;
       }
 
-      .btn-text {
-        display: inline-block;
-        margin: 0;
-        background: transparent;
-        color: #ffffff;
-        font-family: Arial;
-        font-size: 11px;
-        line-height: 1.4;
-        text-decoration: none;
-        cursor: pointer;
-      }
-
       .social-facebook-img {
         width: 72px;
         height: auto;

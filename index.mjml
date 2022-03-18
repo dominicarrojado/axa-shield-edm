@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title> AXA Shield </mj-title>
+    <mj-title> AXA Shield | Dominic Arrojado </mj-title>
 
     <!-- START of Global Attributes -->
     <mj-breakpoint width="800px" />
@@ -120,13 +120,13 @@
       />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="AXA Shield - Dominic Arrojado" />
+      <meta property="og:title" content="AXA Shield | Dominic Arrojado" />
       <meta property="og:description" content="Email template for AXA Shield" />
       <meta
         property="og:url"
         content="https://dominicarrojado.com/axa-shield-edm/"
       />
-      <meta property="og:site_name" content="AXA Shield - Dominic Arrojado" />
+      <meta property="og:site_name" content="Dominic Arrojado" />
       <meta
         property="og:image"
         content="https://dominicarrojado.com/axa-shield-edm/images/axa-shield-screenshot.png"
@@ -142,7 +142,7 @@
         name="twitter:description"
         content="Email template for AXA Shield"
       />
-      <meta name="twitter:title" content="AXA Shield - Dominic Arrojado" />
+      <meta name="twitter:title" content="AXA Shield | Dominic Arrojado" />
       <meta
         name="twitter:image"
         content="https://dominicarrojado.com/axa-shield-edm/images/axa-shield-screenshot.png"
